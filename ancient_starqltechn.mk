@@ -1,9 +1,9 @@
 $(call inherit-product, device/samsung/starqltechn/full_starqltechn.mk)
 
 # Inherit some common LineageOS stuff.
-$(call inherit-product, vendor/lineage/config/common_full_phone.mk)
+$(call inherit-product, vendor/ancient/config/common_full_phone.mk)
 
-PRODUCT_NAME := lineage_starqltechn
+PRODUCT_NAME := ancient_starqltechn
 BOARD_VENDOR := samsung
 
 # Build fingerprint

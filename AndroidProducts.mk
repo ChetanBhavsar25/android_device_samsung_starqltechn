@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_starqltechn.mk
+    $(LOCAL_DIR)/ancient_starqltechn.mk
 
 COMMON_LUNCH_CHOICES := \
-	lineage_starqltechn-user \
-	lineage_starqltechn-userdebug \
-	lineage_starqltechn-eng
+	ancient_starqltechn-user \
+	ancient_starqltechn-userdebug \
+	ancient_starqltechn-eng
